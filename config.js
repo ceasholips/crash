@@ -3,15 +3,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //_________ PREMIUM USER__________//
-global.premium = ["37122219115","6287743875928","+6288298842243","6285326132383","6282225514936","601169396944","6285880004057","6285794800599","6285738639969"]
+global.premium = ["6289508503153","6285738639969","6287743875928"]
 //__________________________________//
 global.thumb = fs.readFileSync('./src/menu.jpg')
-global.owner = ["37122219115","6287743875928"]
-global.nameowner = "The Carosatzx",
-global.nomorowner = "37122219115",
+global.owner = ["6285738639969","6287743875928"]
+global.nameowner = "The Crash",
+global.nomorowner = "6289508503153",
 global.emojistick = "🤡",
-global.namebot = "𝐂 𝐙 𝐗  𝐁𝐎𝐓",
-global.cpowner = "© The Carosatzx",
+global.namebot = "Crash",
+global.cpowner = "© The Crash",
 global.emoji = "▸ ",
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
